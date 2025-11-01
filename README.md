@@ -16,8 +16,8 @@ iOS版本15.8，这是可行的，而且我查过也有人成功用xcode 14.2真
 另外xcode的设备支持文件夹需要把15.5（不是15.7）复制到15.8，
 参考《手机升级到iOS15.8后无法在xcode(14.2)上真机调试》
 ```
-* Copy /Appliccations/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
-from 15.5 (NOT 15.7) to 15.8  
+* Copy /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport,     
+Copy folder 15.5 (NOT 15.7) to folder 15.8    
 https://blog.csdn.net/SHUIYI_24/article/details/134787232   
 https://stackoverflow.com/questions/77429993/looking-for-ios-15-8-support-files-for-xcode14-214c18?noredirect=1&lq=1  
 * Upgrade to macOS Monterey, to run Xcode 14.1 (or XCode 14.2)
