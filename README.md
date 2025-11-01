@@ -26,3 +26,4 @@ https://stackoverflow.com/questions/77429993/looking-for-ios-15-8-support-files-
 https://blog.csdn.net/weixin_43758377/article/details/120859650  
 * Download xcode xip file from developer.apple.com, need login with appleid, search xcode 13    
 https://developer.apple.com/download/all/?q=xcode%2013  
+Double click xip to extract, wait for a long time, and then copy it to Applications folder    
