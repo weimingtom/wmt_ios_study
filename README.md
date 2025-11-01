@@ -24,6 +24,6 @@ https://stackoverflow.com/questions/77429993/looking-for-ios-15-8-support-files-
 * iPhone7Plus in iOS 15.8, but it doesn't support 32bit APP  
 * If Xcode says 'because it has an invalid code signature' when device debugging, solve: Settings -> General -> VPN & Device (设置-通用-设备管理-信任)  
 https://blog.csdn.net/weixin_43758377/article/details/120859650  
-* Download xcode xip file from developer.apple.com, need login with appleid, search xcode 13    
+* Download xcode xip file from developer.apple.com, need login with appleid, search xcode 13, but actually need to download xcode 14     
 https://developer.apple.com/download/all/?q=xcode%2013  
 Double click xip to extract, wait for a long time, and then copy it to Applications folder (rename if need)        
