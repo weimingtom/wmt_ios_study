@@ -35,7 +35,7 @@ Double click xip to extract, wait for a long time, and then copy it to Applicati
 * Mac mini (Late 2014)
 * 处理器 1.4 GHz 双核 Intel Core i5
 * 内存 4GB 1600 MHz DDR3
-* 图形卡 Intel HD Grarphics 5000 1536 MB
+* 图形卡 Intel HD Graphics 5000 1536 MB
 
 ## Mac Mini A1347, New macOS，with Xcode 14.1, able to use xcode 14 to debug iOS 15.8's iPhone/iPad
 * macos upgrade to Monterey (then xcode 11 and xcode 12 are not available)
@@ -45,4 +45,4 @@ Double click xip to extract, wait for a long time, and then copy it to Applicati
 * 处理器 1.4 GHz 双核 Intel Core i5
 * 内存 4GB 1600 MHz DDR3
 * 启动磁盘 未命名
-* 图形卡 Intel HD Grarphics 5000 1536 MB
+* 图形卡 Intel HD Graphics 5000 1536 MB
