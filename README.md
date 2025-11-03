@@ -22,7 +22,7 @@ https://blog.csdn.net/SHUIYI_24/article/details/134787232
 https://stackoverflow.com/questions/77429993/looking-for-ios-15-8-support-files-for-xcode14-214c18?noredirect=1&lq=1  
 * Upgrade to macOS Monterey, to run Xcode 14.1 (or XCode 14.2)
 * iPhone7Plus in iOS 15.8, but it doesn't support 32bit APP  
-* If Xcode says 'because it has an invalid code signature' when device debugging, solve: Settings -> General -> VPN & Device (设置-通用-设备管理-信任)  
+* If Xcode says 'because it has an invalid code signature' when device debugging, solve: in iPhone / iPad, Settings -> General -> VPN & Device (设置-通用-设备管理-信任)  
 https://blog.csdn.net/weixin_43758377/article/details/120859650  
 
 ## How to install Xcode history versions' xip files
