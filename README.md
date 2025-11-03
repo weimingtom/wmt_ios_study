@@ -16,10 +16,11 @@ iOS版本15.8，这是可行的，而且我查过也有人成功用xcode 14.2真
 另外xcode的设备支持文件夹需要把15.5（不是15.7）复制到15.8，
 参考《手机升级到iOS15.8后无法在xcode(14.2)上真机调试》
 ```
-* Copy /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport,     
+* Go to /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport,     
 Copy folder 15.5 (NOT 15.7) to folder 15.8    
 https://blog.csdn.net/SHUIYI_24/article/details/134787232   
 https://stackoverflow.com/questions/77429993/looking-for-ios-15-8-support-files-for-xcode14-214c18?noredirect=1&lq=1  
+https://stackoverflow.com/questions/73721778/looking-for-ios-15-7-support-files-for-xcode14
 * Upgrade to macOS Monterey, to run Xcode 14.1 (or XCode 14.2)
 * iPhone7Plus in iOS 15.8, but it doesn't support 32bit APP  
 * If Xcode says 'because it has an invalid code signature' when device debugging, solve: in iPhone / iPad, Settings -> General -> VPN & Device (设置-通用-VPN和设备管理（或设备管理）-信任)  
