@@ -27,3 +27,10 @@ https://blog.csdn.net/weixin_43758377/article/details/120859650
 * Download xcode xip file from developer.apple.com, need login with appleid, search xcode 13, but actually need to download xcode 14     
 https://developer.apple.com/download/all/?q=xcode%2013  
 Double click xip to extract, wait for a long time, and then copy it to Applications folder (rename if need)        
+
+## Old macOS
+* macos big sur 11 + xcode 11.7 + Command Line Tools 12
+
+## New macOS
+* macos upgrade to Monterey (then xcode 11 and xcode 12 are not available)
+* xcode 14.1 (xcode 13.1 is also available)  
