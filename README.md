@@ -31,7 +31,7 @@ https://developer.apple.com/download/all/?q=xcode%2013
 Double click xip to extract, wait for a long time, and then copy it to Applications folder (rename if need)        
 
 ## Mac Mini A1347, Old macOS，with Xcode 11.7, unable to use xcode 14 to debug iOS 15.8's iPhone/iPad
-* MGEM2, 1.4 GHz, i5, 4G ram, 500G harddisc
+* MGEM2, 1.4 GHz, i5, 4GB ram, 500GB harddisc
 * macos big sur 11 + xcode 11.7 + Command Line Tools 12
 * macOS Big Sur
 * 版本 11.6.5
@@ -41,7 +41,7 @@ Double click xip to extract, wait for a long time, and then copy it to Applicati
 * 图形卡 Intel HD Graphics 5000 1536 MB
 
 ## Mac Mini A1347, New macOS，with Xcode 14.1, able to use xcode 14 to debug iOS 15.8's iPhone/iPad
-* MGEM2, 1.4 GHz, i5, 4G ram, 500G harddisc
+* MGEM2, 1.4 GHz, i5, 4GB ram, 500GB harddisc
 * macos upgrade to Monterey (then xcode 11 and xcode 12 are not available)
 * xcode 14.1 (xcode 13.1 is also available)  
 * macOS Monterey
